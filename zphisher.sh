@@ -776,7 +776,6 @@ site_vk() {
 			{ sleep 1; clear; banner_small; site_vk; };;
 	esac
 }
-
 ## Menu
 main_menu() {
 	{ clear; banner; echo; }
